@@ -10,7 +10,7 @@ L'estimation de l'âge facial a des applications diverses, de la sécurité au m
 
 ### 📂 Données
 - Utilisation du dataset UTKFace pour l'entraînement, comprenant des images faciales avec des annotations d'âge, de sexe, et d'origine ethnique.
-[![UTKFace]](https://susanqq.github.io/UTKFace/)
+[UTKFace](https://susanqq.github.io/UTKFace/)
 <img src="https://github.com/FatimaEzzahraElAyadi/Age_Prediction/blob/master/Images/Data.png">
 - Prétraitement des données incluant l'exploration de la structure du jeu de données, le défloutage des images, et le redimensionnement.
 
@@ -19,9 +19,17 @@ L'estimation de l'âge facial a des applications diverses, de la sécurité au m
 - Paramètres d'entraînement avec optimiseur Adam, fonction de perte MSE, et métrique MAE.
 
 ### 📊 Visualisation
+
+#### CNN Personnaliser
 <img src="https://github.com/FatimaEzzahraElAyadi/Age_Prediction/blob/master/Images/CNN_P.png">
+
+#### VGG16
 <img src="https://github.com/FatimaEzzahraElAyadi/Age_Prediction/blob/master/Images/VGG16.png">
+
+#### ResNet
 <img src="https://github.com/FatimaEzzahraElAyadi/Age_Prediction/blob/master/Images/ResNet.png">
+
+#### Inception
 <img src="https://github.com/FatimaEzzahraElAyadi/Age_Prediction/blob/master/Images/Inception.png">
 
 ### 📈 Benchmarking
